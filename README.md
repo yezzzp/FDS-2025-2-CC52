@@ -13,7 +13,7 @@ Desarrollar un modelo de analítica de datos para **identificar el perfil de los
 ## 👥 Integrantes del Equipo
 
 - [Nombre del Alumno 1] - [Código de Alumno]  
-- [Nombre del Alumno 2] - [Código de Alumno]  
+- Williams Giusseppi Claros Simon - U202312907
 - [Nombre del Alumno 3] - [Código de Alumno]  
 - [Nombre del Alumno 4] - [Código de Alumno]  
 
@@ -26,7 +26,7 @@ El proyecto está organizado en las siguientes carpetas:
 ### `data/`
 Contiene los datasets utilizados.
 - `bike_buyers.csv`: Dataset original sin procesar.
-- (Opcional) Dataset procesado/limpio si decides guardarlo.
+- `bike_buyers_clean.csv`: Dataset procesado/limpio.
 
 ### `code/`
 Contiene los scripts y notebooks de Python.
