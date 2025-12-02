@@ -12,10 +12,10 @@ Desarrollar un modelo de analítica de datos para **identificar el perfil de los
 
 ## 👥 Integrantes del Equipo
 
-- [Nombre del Alumno 1] - [Código de Alumno]  
-- Williams Giusseppi Claros Simon - U202312907
-- [Nombre del Alumno 3] - [Código de Alumno]  
-- [Nombre del Alumno 4] - [Código de Alumno]  
+- Ambrocio Tantalean, Ricardo Victor - U202315214  
+- Claros Simon, Williams Giusseppi - U202312907
+- Quispe Zavaleta, Jose Alberto - U20221C464 
+- Cerreño Zevallos, Raúl Andrés - U202314685 
 
 ---
 
